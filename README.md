@@ -1,8 +1,8 @@
-# Bash Practice Repository
+# 📋 Bash Practice Repository
 
 This repository contains Bash scripting exercises.
 
-## Structure
+## 📁 Structure
 
 - easy/: Basic scripts covering fundamental Bash concepts
 - intermediate/: Scripts demonstrating argument parsing, text processing, and flow control
