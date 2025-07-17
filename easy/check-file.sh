@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#This script checks if the file (first argument) exists or not.
+
 if [[ -z $1 ]]; then
 echo "Enter the file path!"
 exit 1
