@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 #This script will check if the provided path leads to the file or the directory
 
